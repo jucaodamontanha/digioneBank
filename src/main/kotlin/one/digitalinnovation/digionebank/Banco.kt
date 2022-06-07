@@ -1,6 +1,6 @@
 package one.digitalinnovation.digionebank
 
-abstract class Pessoa(
+data class Banco(
     val nome: String,
-    val cpf: String,
+    val numero: Int
 )
