@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eef6acfa-c6c2-4578-a62a-f6c47219aabe" name="Changes" comment="update to aplly the privite modifier to set function of cpf propriedades">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/Banco.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/ClienteTipo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/Funcionario.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/teste/TesteBanco.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/teste/TesteClienteTipoEnum.kt" afterDir="false" />
+    <list default="true" id="eef6acfa-c6c2-4578-a62a-f6c47219aabe" name="Changes" comment="ultimas atulizacoes abstratas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/Pessoa.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -112,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654609217478</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ultimas atulizacoes abstratas">
+      <created>1654623046666</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654623046666</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +146,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update to aplly the privite modifier to set function of cpf propriedades" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to aplly the privite modifier to set function of cpf propriedades" />
+    <MESSAGE value="ultimas atulizacoes abstratas" />
+    <option name="LAST_COMMIT_MESSAGE" value="ultimas atulizacoes abstratas" />
   </component>
 </project>
